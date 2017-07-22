@@ -104,7 +104,7 @@ img {
 .welcome-card>.mdl-card__title {
     color: #000;
     height: 260px;
-    background: url("../img/cover.png") no-repeat;
+    background: url("../img/cover.PNG") no-repeat;
     margin: auto;
 }
 
